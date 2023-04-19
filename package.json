@@ -1,0 +1,24 @@
+{
+  "name": "chat-telnet",
+  "version": "1.0.0",
+  "description": "Chat desenvolvido para atividade na disciplina de Sistemas Distribuídos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanmartinsdeazevedo/chat-telnet.git"
+  },
+  "author": "Alan Martins de Azevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanmartinsdeazevedo/chat-telnet/issues"
+  },
+  "homepage": "https://github.com/alanmartinsdeazevedo/chat-telnet#readme",
+  "dependencies": {
+    "carrier": "^0.3.0",
+    "ip": "^1.1.8",
+    "os": "^0.1.2"
+  }
+}
